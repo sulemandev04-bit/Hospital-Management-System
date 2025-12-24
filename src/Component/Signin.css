@@ -1,0 +1,28 @@
+.register{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    
+}
+.fm{
+    margin-top: 100px;
+    border: 2px solid rgb(194, 185, 185);
+    border-radius: 10px;
+    padding: 20px;
+    width: 25%;
+    height: 20%;
+}
+.hed{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+#ti{
+    font-size: 30px;
+    color: rgb(63, 147, 221);
+    margin-bottom: 20px;
+}
+
